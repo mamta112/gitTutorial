@@ -1,0 +1,5 @@
+this is my first version v1
+
+this is for commit 2 make changes for new commit
+
+make changes to modified plus staging
