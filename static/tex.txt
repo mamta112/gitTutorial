@@ -1,2 +1,4 @@
 changes in this  file will be tracked
 hi
+
+directly change without staging area
